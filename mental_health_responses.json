@@ -1,0 +1,73 @@
+{
+    "anxious": {
+      "work": [
+        "It sounds like work is creating some anxiety for you. Remember that it's okay to take breaks and set boundaries. What specific part is causing you the most stress?",
+        "Work anxiety can be challenging. Taking things one step at a time and focusing on what you can control might help. Would you like to talk about some coping strategies?",
+        "I understand work pressure can be overwhelming. Have you tried any relaxation techniques when you feel anxious at work?"
+      ],
+      "relationships": [
+        "Relationship anxiety is very common. Remember that good communication is key. What specific concerns do you have about this relationship?",
+        "It's natural to feel anxious about relationships sometimes. What aspects are making you feel this way?",
+        "I hear that you're feeling anxious about your relationship. Would talking to your partner about how you're feeling be an option?"
+      ],
+      "general": [
+        "I notice you're feeling anxious. Taking slow, deep breaths can help in the moment. Would you like to try a quick breathing exercise with me?",
+        "Anxiety can be difficult to manage. Remember that your feelings are valid. Would it help to talk about what specifically is making you feel this way?",
+        "When anxiety rises, grounding techniques can help. Try naming 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste."
+      ]
+    },
+    "sad": {
+      "general": [
+        "I'm sorry you're feeling down. Remember that it's okay to not be okay sometimes. Would you like to talk more about what's making you feel this way?",
+        "It sounds like you're going through a difficult time. Be gentle with yourself - healing isn't linear. Is there something small you could do today that might bring you a moment of joy?",
+        "When we're feeling sad, it can be hard to see past it. But feelings do change with time. What has helped you move through difficult emotions in the past?"
+      ],
+      "family": [
+        "Family situations can bring up strong emotions. Your feelings about this are valid. Would it help to explore some ways to navigate this situation?",
+        "I'm sorry you're experiencing this difficulty with your family. Sometimes setting healthy boundaries can help protect your emotional well-being. What do you think might help in this situation?"
+      ]
+    },
+    "angry": {
+      "general": [
+        "It's completely natural to feel angry sometimes. Would it help to explore what might be beneath that anger?",
+        "When we're angry, taking a short break can sometimes help us respond rather than react. Would you like to try a quick calming technique?",
+        "I hear that you're feeling frustrated. Sometimes writing out our thoughts can help process them. Have you tried journaling about this situation?"
+      ]
+    },
+    "lonely": {
+      "general": [
+        "Feeling lonely can be really difficult. Remember that many people experience loneliness - you're not alone in feeling this way. Are there small steps you could take to connect with others?",
+        "I'm sorry you're feeling lonely. Sometimes reaching out to just one person can make a difference. Is there someone you could connect with today, even briefly?",
+        "Loneliness is a common human experience, though that doesn't make it any easier. Would it help to brainstorm some ways to increase meaningful connections in your life?"
+      ]
+    },
+    "fearful": {
+      "general": [
+        "Fear is our brain's way of trying to protect us, though sometimes it can be overwhelming. What specifically are you afraid might happen?",
+        "It takes courage to acknowledge fear. Sometimes naming what we're afraid of can reduce its power over us. Would it help to explore this fear a bit more?",
+        "When we're afraid, our minds often go to worst-case scenarios. Sometimes it helps to ask: what's the most likely outcome in this situation?"
+      ]
+    },
+    "positive": {
+      "general": [
+        "It's wonderful to hear you're in a good place! What's contributing to these positive feelings?",
+        "I'm glad things are going well. Taking time to appreciate positive moments can help us build resilience for more challenging times. What are you grateful for today?",
+        "That sounds really positive! Celebrating our successes, even small ones, is important. How will you acknowledge this good moment?"
+      ]
+    },
+    "negative": {
+      "general": [
+        "It sounds like you're going through a challenging time. Remember that all feelings are temporary, even though they might not feel that way in the moment.",
+        "I'm here to listen as you work through these difficult feelings. Sometimes just expressing them can help lighten the load a bit.",
+        "When things feel overwhelming, focusing on tiny steps forward can help. What's one small thing that might make today a little better?"
+      ]
+    },
+    "general": {
+      "general": [
+        "I'm here to listen. Would you like to tell me more about what's on your mind?",
+        "Thank you for sharing that with me. How long have you been feeling this way?",
+        "I appreciate you opening up. What would be most helpful for you right now - someone to listen, some suggestions, or something else?",
+        "Sometimes talking things through can help provide clarity. Is there a specific aspect of this situation you'd like to explore further?"
+      ]
+    }
+  }
